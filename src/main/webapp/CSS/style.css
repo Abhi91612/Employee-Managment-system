@@ -1,0 +1,35 @@
+.navbar-custom {
+      background-color: #ff9800; /* orange */
+    }
+    .navbar-custom a {
+      color: white !important;
+      font-weight: 500;
+    }
+    .navbar-custom a:hover {
+      text-decoration: underline;
+    }
+    hr.custom-hr {
+      border: 3px solid green;
+      margin: 0;
+    }
+    
+    
+    
+    
+    .form-heading {
+      color: gray;
+      text-align: center;
+      padding-top: 20px;
+    }
+    .card-custom {
+      border: 2px solid #ff9800;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    }
+    .btn-orange {
+      background-color: #ff9800;
+      border: none;
+      color: white;
+    }
+    .btn-orange:hover {
+      background-color: #e68900;
+    }
